@@ -1,0 +1,15 @@
+{
+  "services": {
+    "conversation": [
+      {
+        "label": "conversation",
+        "name": "mybot",
+        "credentials": {
+            "url": "https://gateway.watsonplatform.net/conversation/api",
+            "password": "qiMxKrfyrfW5",
+            "username": "c69e4760-f9a3-44d5-97f2-5dc68aa2b922"
+        }
+      }
+    ]
+  }
+}
